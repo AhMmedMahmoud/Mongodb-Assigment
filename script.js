@@ -1,11 +1,5 @@
 const queries =
     [
-        /*
-        { query:
-            db.students.find({},{"_id":0,"personal_info.birthdate":1}).sort({"personal_info.birthdate":1})
-        }
-        */
-
         // Q1
         {
             query:
